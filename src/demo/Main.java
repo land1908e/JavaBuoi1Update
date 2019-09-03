@@ -15,7 +15,7 @@ public class Main {
 //        }
 //        System.out.println(ketQua);
 
-        System.out.println("ahihihihihihihi");
+        System.out.println("ahih222222222ihihihihihi");
 
         SNT sNT = new SNT();
         sNT.soKT = 10;
