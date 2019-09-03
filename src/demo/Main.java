@@ -28,6 +28,7 @@ public class Main {
         System.out.println("ket qua: " + sNT2.ketQua);
 
         abc
+                bcv
 
 
 
