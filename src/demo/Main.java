@@ -27,6 +27,7 @@ public class Main {
         sNT2.kiemTra();
         System.out.println("ket qua: " + sNT2.ketQua);
 
+        System.out.println("Hello Ahihihikjhlkj");
 
 
     }
