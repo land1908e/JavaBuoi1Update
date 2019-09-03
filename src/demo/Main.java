@@ -27,35 +27,12 @@ public class Main {
         sNT2.kiemTra();
         System.out.println("ket qua: " + sNT2.ketQua);
 
-        System.out.println("Hello Ahihihikjhlkj");
-        System.out.println("Hello Ahihihikjhlkj");
-
-        System.out.println("Hello Ahihihikjhlkj");
-        System.out.println("Hello Ahihihikjhlkj");
-
-        System.out.println("Hello Ahihihikjhlkj");
-        System.out.println("Hello Ahihihikjhlkj");
-
-        System.out.println("Hello Ahihihikjhlkj");
-        System.out.println("Hello Ahihihikjhlkj");
-
-        System.out.println("Hello Ahihihikjhlkj");
-        System.out.println("Hello Ahihihikjhlkj");
-
-        System.out.println("Hello Ahihihikjhlkj");
-        System.out.println("Hello Ahihihikjhlkj");
-
-        System.out.println("Hello Ahihihikjhlkj");
-        System.out.println("Hello Ahihihikjhlkj");
-
-        System.out.println("Hello Ahihihikjhlkj");
-        System.out.println("Hello Ahihihikjhlkj");
-
-        System.out.println("Hello Ahihihikjhlkj");
-        System.out.println("Hello Ahihihikjhlkj");
-
-        System.out.println("Hello Ahihihikjhlkj");
-        System.out.println("Hello Ahihihikjhlkj");
+        System.out.println(" bbbbbbbbbbbbbbbbbbb");
+        System.out.println(" bbbbbbbbbbbbbbbbbbb");
+        System.out.println(" bbbbbbbbbbbbbbbbbbb");
+        System.out.println(" bbbbbbbbbbbbbbbbbbb");
+        System.out.println(" bbbbbbbbbbbbbbbbbbb");
+        System.out.println(" bbbbbbbbbbbbbbbbbbb");
 
 
     }
