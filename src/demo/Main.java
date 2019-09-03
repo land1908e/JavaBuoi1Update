@@ -29,10 +29,7 @@ public class Main {
 
 
         System.out.println("day code 30");
-
-        abc
-                bcv
-
+        
 
 
 
